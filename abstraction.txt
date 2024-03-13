@@ -1,2 +1,2 @@
-high level abstraction
-low level abstraction
+high level abstraction.
+low level abstraction.

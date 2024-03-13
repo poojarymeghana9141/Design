@@ -1,2 +1,2 @@
 design evaluation criteria
-large system is devided into small components
+system is devided into small components
